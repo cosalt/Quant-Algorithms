@@ -20,3 +20,6 @@ Here you will find implementations and explanations for various models. Each mod
 ---
 
 *More models and algorithms will be added as I continue to explore the field.*
+
+
+note: i do not like the usage of ai when coding, to explain and understand, yes, not giving answers. no point in learning then if it's giving you all the answers. 
