@@ -12,7 +12,7 @@ This space is for experimentation, learning, and creating a personal library of 
 
 Here you will find implementations and explanations for various models. Each model will have its own detailed documentation.
 
--   **[The Capital Asset Pricing Model (CAPM)](./capm/README.md)**: A foundational model for determining the expected return on an asset based on its systematic risk.
+-   **[The Capital Asset Pricing Model (CAPM)](https://github.com/cosalt/Quant-Algorithms/tree/main/CAPM-Model)**: A foundational model for determining the expected return on an asset based on its systematic risk.
 
 ---
 
