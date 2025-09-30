@@ -1,5 +1,10 @@
 # The Carhart Four-Factor Model
 
+This folder contains the Carhart Four-Factor Model Python script and related Jupyter notebook for quantitative analysis.
+
+- `Carhart-Four-Factor-Model.py`: Python implementation of the CAPM model.
+- `ipython.ipynb`: Jupyter notebook for interactive analysis and visualization.
+
 The Carhart Four-Factor Model is an extension of the Fama-French Three-Factor Model, introducing an additional factor to account for **momentum**. Developed by Mark Carhart in 1997, the model is widely used in quantitative finance, particularly for analyzing the performance of mutual funds.
 
 Carhart added the momentum factor to address the empirical tendency for stocks that have performed well in the recent past to continue performing well, and for past underperformers to continue underperforming. This phenomenon, often described as "winners keep winning, losers keep losing," was not captured by the Fama-French factors.

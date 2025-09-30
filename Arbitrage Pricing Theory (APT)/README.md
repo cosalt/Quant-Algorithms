@@ -1,5 +1,10 @@
 # Arbitrage Pricing Theory (APT)
 
+This folder contains the Arbitrage Pricing Theory (APT) Python script and related Jupyter notebook for quantitative analysis.
+
+- `Arbitrage-Pricing-Theory-(APT).py`: Python implementation of the CAPM model.
+- `ipython.ipynb`: Jupyter notebook for interactive analysis and visualization.
+
 Arbitrage Pricing Theory (APT) is a multi-factor asset pricing model that provides a more flexible alternative to the Capital Asset Pricing Model (CAPM). Developed by economist Stephen Ross in 1976, APT posits that an asset's expected return can be modeled as a linear function of various macroeconomic factors or theoretical market indices.
 
 Unlike the CAPM, which assumes that the single factor of market risk is sufficient to explain returns, APT allows for multiple sources of systematic risk. Crucially, APT does not specify *what* these factors must be. This flexibility is both a strength and a challenge of the model, as it requires quants to use statistical methods (like factor analysis) to identify the relevant risk factors for a given set of assets.

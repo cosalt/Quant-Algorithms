@@ -1,5 +1,10 @@
 # The Fama-French Three-Factor Model
 
+This folder contains the Fama-French Three-Factor ModelPython script and related Jupyter notebook for quantitative analysis.
+
+- `Fama-French-Three-Factor-Model.py`: Python implementation of the CAPM model.
+- `ipython.ipynb`: Jupyter notebook for interactive analysis and visualization.
+
 The Fama-French Three-Factor Model is a widely recognized asset pricing model that expands on the Capital Asset Pricing Model (CAPM) by adding two additional risk factors to better explain stock returns. Developed by Eugene Fama and Kenneth French, the model asserts that beyond the market risk captured by CAPM, the returns of a diversified portfolio are also sensitive to the risks associated with company size and value.
 
 The model arose from the empirical observation that, over time, small-cap stocks and value stocks (those with a high book-to-market ratio) have tended to outperform the overall market.
