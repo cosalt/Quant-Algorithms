@@ -1,6 +1,6 @@
 # The Fama-French Three-Factor Model
 
-This folder contains the Fama-French Three-Factor ModelPython script and related Jupyter notebook for quantitative analysis.
+This folder contains the Fama-French Three-Factor Model Python script and related Jupyter notebook for quantitative analysis.
 
 - `Fama-French-Three-Factor-Model.py`: Python implementation of the CAPM model.
 - `ipython.ipynb`: Jupyter notebook for interactive analysis and visualization.
