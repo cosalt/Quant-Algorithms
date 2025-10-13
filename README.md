@@ -17,6 +17,7 @@ Here you will find implementations and explanations for various models. Each mod
 -   **[The Carhart Four-Factor Model](https://github.com/cosalt/Quant-Algorithms/tree/main/Carhart%20Four-Factor%20Model)**: Builds on the Fama-French model by including a fourth risk factor for momentum (MOM).
 -   **[The Fama-French Three-Factor Model](https://github.com/cosalt/Quant-Algorithms/tree/main/Fama-French%20Three-Factor%20Model)**: An extension of the CAPM that adds size (SMB) and value (HML) risk factors to better explain stock returns.
 
+... and more to come 
 ---
 
 *More models and algorithms will be added as I continue to explore the field.*
